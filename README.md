@@ -14,3 +14,6 @@ The code in this repository is a command-line application in Go that processes d
 - **`housesInput.csv`**: Example input dataset used by the application
 - **`output.jsonl`**: Example output dataset in JSON
 - **`csv_to_json`**: An executable file for the CSV to JSON conversion
+
+### Executable:
+The csv_to_json application is an executable file designed to convert CSV data into JSON format efficiently. Here is a sample command line prompt: ./csv_to_json housesInput.csv  output.jsonl
