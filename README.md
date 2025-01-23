@@ -1,6 +1,8 @@
 # Week 3 Assignment: Creating a Command-Line Application
 Name: Trey Pezzetti
-Date: 1/23/25
+
+Date: 1/23/25\n
+
 Purpose: This repository contains Trey Pezzetti's submission for the Week 3 Assignment: Creating a Command-Line Application
 
 ## Overview
